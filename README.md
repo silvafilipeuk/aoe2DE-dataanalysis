@@ -6,6 +6,8 @@ Data Source Up to 03/2023: https://www.kaggle.com/datasets/jerkeeler/age-of-empi
 
 PowerBI Dashboard 1: https://app.powerbi.com/links/xtnoZbiAlF?ctid=73f552bd-ac3f-4bba-adb9-042ab903f40a&pbi_source=linkShare
 
+![PowerBI Dashboard1](https://github.com/silvafilipeuk/aoe2DE-dataanalysis/blob/main/images/dashboard1.png?raw=true)
+
 
 
 About Dataset
