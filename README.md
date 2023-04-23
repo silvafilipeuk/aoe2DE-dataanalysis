@@ -8,7 +8,8 @@ PowerBI Dashboard 1: https://app.powerbi.com/links/xtnoZbiAlF?ctid=73f552bd-ac3f
 
 ![PowerBI Dashboard1](https://github.com/silvafilipeuk/aoe2DE-dataanalysis/blob/main/images/dashboard1.png?raw=true)
 
-
+Excel file with the cleaned data after merging both tables with PowerBI, with data cleaning, pivot tables and a few charts:
+https://docs.google.com/spreadsheets/d/122G9esr5TVGOBSrxRQDLYhRs8bRE9LOC/edit?usp=share_link&ouid=108627900205455748572&rtpof=true&sd=true
 
 About Dataset
 Context
